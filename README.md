@@ -1,2 +1,3 @@
 # cinema2
-Cinema Application.
+Cinema Application in Java.
+Manage cinemas, movies, accounts, reservations with SQL DBB.
